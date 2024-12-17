@@ -1,6 +1,5 @@
 # terraform-aws-demo
 This project demonstrates how I used Terraform to provision an EC2 instance and an S3 bucket on AWS. It also includes enabling remote state storage in S3 and state locking with DynamoDB for consistency and collaboration.
-Steps Taken
 
 # Project Setup
 Created a folder to store Terraform configuration files:
