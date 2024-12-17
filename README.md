@@ -77,11 +77,11 @@ terraform apply
 
 # Screenshots
 
-> AWS Console: EC2 instance and S3 bucket.
-> Terminal Output: Successful terraform apply and DynamoDB table creation.
+AWS Console: EC2 instance and S3 bucket;
+Terminal Output: Successful terraform apply and DynamoDB table creation.
 
 # Key Features
 
-> Infrastructure as Code (IaC) with Terraform.
-> Remote state storage with S3 for team collaboration.
-> State locking with DynamoDB for consistency.
+Infrastructure as Code (IaC) with Terraform;
+Remote state storage with S3 for team collaboration;
+State locking with DynamoDB for consistency.
